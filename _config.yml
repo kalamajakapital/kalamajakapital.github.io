@@ -34,8 +34,8 @@ disqus:
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: G-VR50YKV5XP
 
-url: http://www.kalamajakapital.ee
-enforce_ssl: https://www.kalamajakapital.ee
+url: http://www.kalamajakapital.github.io
+enforce_ssl: https://www.kalamajakapital.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
