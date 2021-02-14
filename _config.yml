@@ -3,33 +3,24 @@
 #
 
 # Name of your site (displayed in the header)
-name: Reverie
-
-# Name of the author
+name: Kalamaja Kapital
 author: Amit Merchant
-
-# Short bio or description (displayed in the header)
 description: An elegant Jekyll theme
-
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/reverie.png
 
-#
 # Flags below are optional
-#
-
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: amit.d.merchant@gmail.com
+  email: kontakt@kalamajakapital.ee
   facebook:
   flickr:
-  github: amitmerchant1990/reverie
+  github: kalamajakapital
   instagram:
   linkedin: 
   pinterest:
   rss: rss
-  twitter: amit_merchant
+  twitter: kalamajakapital
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -41,12 +32,10 @@ footer-links:
 disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-43339302-11
+google_analytics: G-VR50YKV5XP
 
-# Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
-# Used for Sitemap.xml and your RSS feed
-url: http://www.amitmerchant.com/reverie
-enforce_ssl: https://www.amitmerchant.com/reverie
+url: http://www.kalamajakapital.ee
+enforce_ssl: https://www.kalamajakapital.ee
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
