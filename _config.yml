@@ -4,9 +4,9 @@
 
 # Name of your site (displayed in the header)
 name: Kalamaja Kapital
-author: Amit Merchant
-description: An elegant Jekyll theme
-avatar: /images/reverie.png
+author: Toomas Ormisson
+description: Investing for a brighter future.
+avatar: /images/logo-medium.png
 
 # Flags below are optional
 # Includes an icon in the footer for each username you enter
@@ -25,7 +25,6 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
-
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
