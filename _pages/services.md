@@ -4,5 +4,5 @@ title: Teenused
 permalink: /services/
 ---
 
-## Teenused
+## Põhitegevusvaldkond
 - Kinnisvara rent
